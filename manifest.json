@@ -1,0 +1,8 @@
+{
+  "domain": "start",
+  "name": "START",
+  "codeowners": [],
+  "dependencies": [],
+  "iot_class": "local_polling",
+  "requirements": []
+}
